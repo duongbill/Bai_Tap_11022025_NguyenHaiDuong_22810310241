@@ -60,4 +60,4 @@ Khi danh sách của bạn phẳng, không cần phân nhóm và có thể hiể
 	•	SectionList:
 Khi bạn cần hiển thị danh sách có cấu trúc phân nhóm 
 Nếu chỉ cần danh sách đơn giản và hiệu năng cao, FlatList là lựa chọn tốt hơn. br>
-![Ảnh sản phẩm](/anh.jpg)
+![Ảnh sản phẩm](/anh.jpg)# Bai_Tap_11022025_NguyenHaiDuong_22810310241
